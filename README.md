@@ -8,9 +8,6 @@ This dashboard visualizes the reviews of British Airways, providing insights int
 * **Tableau:** For data visualization and dashboard creation.
 * **[Other Technologies]:** Specify any additional technologies used, such as Python for data preprocessing or a specific Tableau version.
 
-## Data Sources
-* **[Data Source]:** Describe the source of the review data (e.g., customer surveys, social media).
-* **Data Cleaning and Preparation:** Briefly explain any data cleaning or preprocessing steps involved.
 
 ## Dashboard Features
 * **Overall Rating:** Displays the average overall rating.
