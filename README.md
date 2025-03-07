@@ -7,7 +7,7 @@ This dashboard visualizes the reviews of British Airways, providing insights int
 
 ## Technologies Used
 * **Tableau:** For data visualization and dashboard creation.
-* **[Other Technologies]:** Specify any additional technologies used, such as Python for data preprocessing or a specific Tableau version.
+
 
 
 ## Dashboard Features
